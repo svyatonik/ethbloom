@@ -9,7 +9,7 @@ homepage = "https://github.com/debris/ethbloom"
 repository = "https://github.com/debris/ethbloom"
 
 [dependencies]
-tiny-keccak = "1.4"
+tiny-keccak = "1.4.1"
 rustc-hex = "1.0"
 heapsize = { version = "0.4", optional = true }
 crunchy = { version = "0.1.6", features = ["limit_256"] }
